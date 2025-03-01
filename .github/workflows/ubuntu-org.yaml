@@ -1,6 +1,4 @@
-name: nginx-otel build
-
-
+name: nginx-otel build 
 on:
   workflow_dispatch:
 
